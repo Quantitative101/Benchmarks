@@ -1,10 +1,7 @@
 # Benchmarks
 Collection of benchmark results from my own personal machines.
 
-
-===============================================================
                             MODERN
-===============================================================
 
 Criteria for "Modern" branch: 
 
@@ -37,11 +34,7 @@ Dell Precision T3500 / Xeon W3530 / 3GB Triple Channel DDR3 / XXXXXXX / Windows 
 
 
 
-
-
-=================================================================
                                LEGACY
-=================================================================
 
 
 Criteria for "Legacy":
