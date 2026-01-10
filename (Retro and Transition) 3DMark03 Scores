@@ -1,20 +1,20 @@
-Sony Vaio FJ270 / Pentium M 760 (2.00Ghz) (Dothan)
+Sony Vaio FJ270 / Pentium M 760 (2.00Ghz) (Dothan) / 915GM
 
 Score: 1116 Pts
 
-HP DV2000 / Core Duo T2050 (Yonah)
+HP DV2000 / Core Duo T2050 (Yonah) / GMA 950
 
 Score: 1047 Pts*
 
-Dell Inspiron 1501 / AMD TK-55 (K8)
+Dell Inspiron 1501 / AMD TK-55 (K8) / Radeon Xpress 1150
 
 Score: 1242 Pts
 
-Sony Vaio VGN-CR21S / Core 2 Duo T6400 (Penryn)
+Sony Vaio VGN-CR21S / Core 2 Duo T6400 (Penryn) / GMA X3100**
 
 Score: 1825 Pts
 
-Sony Vaio VGN-CR21S / Core 2 Duo T7250 (Merom)
+Sony Vaio VGN-CR21S / Core 2 Duo T7250 (Merom) / GMA X3100**
 
 Score: 1746 Pts
 
@@ -22,16 +22,27 @@ Dell Vostro 3300 / i3 370M (Arrandale)
 
 Score: 4604 Pts
 
-Dell Latitude D830 / Core 2 Duo T7500 (Merom)
+Dell Latitude D830 / Core 2 Duo T7500 (Merom) / Quadro NVS 140M
 
 Score: 5532 Pts
 
-* Score is lower than Dothan likely due to slightly lower IPC / Single Core performance, does NOT reflect Multi-Core!
+Dell Latitude D630 / Core 2 Duo T7500 (Merom) / GMA X3100
+
+Score: 1334 Pts
+
+HP DV2000 / Core 2 Duo T5600 (Merom) / GMA 950
+
+Score: 1013 Pts
 
 
 
 
 Mostly Stock Settings - CPU TESTS OFF - Shader model 2.0 tests OFF (915GM either artifacts or resorts to software rendering and score falls if it's on)
+
+
+*Score is lower than Dothan likely due to slightly lower IPC / Single Core performance, does NOT reflect Multi-Core!
+
+**Custom modded X3100 drivers!
 
 
 THIS SPECIFIC TEST IS INTENTED TO SHOW DIRECTX GPU PERFORMANCE ****NOT**** CPU PERFORMANCE!
