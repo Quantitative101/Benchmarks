@@ -10,7 +10,7 @@ To ensure results are as consistent and comparable as possible, all tests follow
 * **Consistency:** The exact same settings are applied across all devices being compared.
 * **Environment:** Background applications are fully disabled, and a consistent resolution is used for all GPU-based tests.
 * **Hardware Changes:** If a device's hardware configuration is modified, it will receive a **separate entry** in the benchmark files to reflect the change.
-
+* **Disk Speed:** All devices are using SSDs as their boot drives! Devices with SATA drives are using cheaper units, which do not contain cache modules. While newer devices with NVME drives DO have higher end drives WITH cache modules. While this shouldn't affect most CPU/GPU benchmarks, it can affect general ones like PassMark final scores!
 ---
 
 ## Testing Categories
