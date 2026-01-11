@@ -19,7 +19,7 @@ I divide benchmarks into two main categories to ensure scores are comparable wit
 
 1.  **Legacy:** Older hardware and vintage systems.
 2.  **Modern:** Current-gen hardware and recent releases.
-3.  **Transition** Middle-ground hardware.
+3.  **Transition:** Middle-ground hardware.
 
 ---
 
