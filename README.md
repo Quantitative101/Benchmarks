@@ -26,7 +26,7 @@ I divide benchmarks into two main categories to ensure scores are comparable wit
 ## Q&A
 
 ### I have the same config and it performs X% better/worse!
-These scores are taken from real-world devices running full Operating Systems. Factors such as specific OS versions, installed updates, minor background processes, and even **room temperature** can cause variations. I aim for clarity, but some margin of error is natural in real-world testing.
+These scores are taken from real-world devices running full Operating Systems, with only services that could interfere with results (such as defender or windows update) being disabled. Factors such as specific OS versions, installed updates, minor background processes, and even **room temperature** can cause variations. I aim for clarity, but some margin of error is natural in real-world testing.
 
 ### Can you benchmark a specific configuration?
 I can only benchmark hardware I physically own. However, you are welcome to request:
